@@ -1,0 +1,9 @@
+# Function dependencies, for example:
+# package>=version
+
+facebook-business
+numpy
+pandas
+google-cloud-bigquery
+pyarrow
+google-auth-oauthlib

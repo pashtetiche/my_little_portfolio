@@ -1,0 +1,12 @@
+# Function dependencies, for example:
+# package>=version
+
+pandas
+dask
+google-auth-httplib2
+httplib2
+google-cloud-bigquery
+more-itertools
+google-api-core
+google-api-python-client
+pyarrow
